@@ -1,2 +1,3 @@
 # aulaTravisCI
-atividade prática 
+Atividade prática<br>
+integração contínua com o TravisCI

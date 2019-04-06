@@ -1,6 +1,6 @@
 language: python
 python:
-- "3.4”
+- "3.7.0”
 before_script:
 - cd src
 script:
